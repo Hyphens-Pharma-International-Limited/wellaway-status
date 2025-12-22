@@ -3,9 +3,9 @@ owner: Hyphens-Pharma-International-Limited # Your GitHub organization or userna
 repo: wellaway-status # The name of this repository
 
 sites:
-  - name: WellAway Site
+  - name: Website
     url: $URL_WELLAWAY_SITE
-  - name: WellAway Platform
+  - name: Online Pharmacy
     url: $URL_WELLAWAY_PLATFORM
 
 status-website:
