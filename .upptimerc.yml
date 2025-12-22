@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /wellaway-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.wellaway.com.sg/wp-content/uploads/2021/04/logo-footer.png
   name: WellAway
   introTitle: "WellAway Status"
   introMessage: ""
