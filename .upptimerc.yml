@@ -7,8 +7,10 @@ sites:
     url: $URL_WELLAWAY_SITE
   - name: Online Pharmacy
     url: $URL_WELLAWAY_PLATFORM
+    maxResponseTime: 180000 # 3 minutes in millis
   - name: Sandbox
     url: $URL_WELLAWAY_SANDBOX
+    maxResponseTime: 180000 # 3 minutes in millis
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
