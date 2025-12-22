@@ -15,7 +15,7 @@ status-website:
   baseUrl: /wellaway-status
 #  logoUrl: https://www.wellaway.com.sg/wp-content/uploads/2021/04/logo-footer.png
   name: WellAway
-  introTitle: "Status"
+  introTitle: "WellAway Status"
   introMessage: ""
   navbar:
     - title: Status
