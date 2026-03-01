@@ -1,7 +1,7 @@
 url: $URL_WELLAWAY_SITE
-status: up
-code: 200
-responseTime: 1126
-lastUpdated: 2026-03-01T07:41:49.625Z
+status: down
+code: 415
+responseTime: 712
+lastUpdated: 2026-03-01T10:42:36.185Z
 startTime: 2025-12-22T08:02:09.215Z
 generator: Upptime <https://github.com/upptime/upptime>
