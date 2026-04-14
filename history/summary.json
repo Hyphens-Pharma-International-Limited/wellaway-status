@@ -4,17 +4,17 @@
     "url": "$URL_WELLAWAY_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "98.23%",
-    "uptimeDay": "91.29%",
+    "status": "down",
+    "uptime": "98.24%",
+    "uptimeDay": "91.28%",
     "uptimeWeek": "87.96%",
     "uptimeMonth": "95.55%",
-    "uptimeYear": "98.23%",
-    "time": 1020,
-    "timeDay": 941,
-    "timeWeek": 933,
-    "timeMonth": 934,
-    "timeYear": 1020,
+    "uptimeYear": "98.24%",
+    "time": 1026,
+    "timeDay": 1316,
+    "timeWeek": 981,
+    "timeMonth": 956,
+    "timeYear": 1026,
     "dailyMinutesDown": {
       "2026-04-14": 120,
       "2026-04-13": 6,
@@ -58,8 +58,7 @@
       "2026-02-21": 50,
       "2026-02-20": 86,
       "2026-02-19": 78,
-      "2026-02-18": 19,
-      "2026-02-17": 19
+      "2026-02-18": 19
     }
   },
   {
