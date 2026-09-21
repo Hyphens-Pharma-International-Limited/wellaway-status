@@ -28,17 +28,17 @@
     "url": "$URL_WELLAWAY_SANDBOX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sandbox",
-    "status": "up",
+    "status": "down",
     "uptime": "97.01%",
-    "uptimeDay": "95.42%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "90.95%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "90.96%",
     "uptimeYear": "97.01%",
-    "time": 2592,
-    "timeDay": 10610,
-    "timeWeek": 6809,
-    "timeMonth": 3190,
-    "timeYear": 2592,
+    "time": 2646,
+    "timeDay": 11519,
+    "timeWeek": 7614,
+    "timeMonth": 3583,
+    "timeYear": 2646,
     "dailyMinutesDown": {
       "2025-12-22": 27,
       "2026-01-20": 31,
@@ -62,7 +62,7 @@
       "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 906,
-      "2026-09-21": 66
+      "2026-09-21": 58
     }
   }
 ]
